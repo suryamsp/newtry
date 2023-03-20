@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color:green ;
+}
+
+.user{
+  color: crimson;
+} 
+.pic{
+  border-radius: 50%;
+  object-fit: cover;
+  height: 250px;
+  width: 250px;
+}
